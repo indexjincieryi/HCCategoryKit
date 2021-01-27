@@ -1,0 +1,6 @@
+framework module HCCategoryKit {
+  umbrella header "HCCategoryKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

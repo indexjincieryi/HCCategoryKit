@@ -1,0 +1,22 @@
+{
+  "name": "HCCategoryKit",
+  "version": "0.1.0",
+  "summary": "A short description of HCCategoryKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/niejiafa/HCCategoryKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "niejiafa": "niejiafa@haiercash.com"
+  },
+  "source": {
+    "git": "https://github.com/niejiafa/HCCategoryKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "HCCategoryKit/Classes/**/*"
+}
