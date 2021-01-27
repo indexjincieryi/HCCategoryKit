@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/niejiafa/HCCategoryKit'
+  s.homepage         = 'https://github.com/indexjincieryi/HCCategoryKit'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'niejiafa' => 'niejiafa@haiercash.com' }
-  s.source           = { :git => 'https://github.com/niejiafa/HCCategoryKit.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/indexjincieryi/HCCategoryKit.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '9.0'
