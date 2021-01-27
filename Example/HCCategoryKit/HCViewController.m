@@ -8,6 +8,8 @@
 
 #import "HCViewController.h"
 
+#import "UIScrollView+EmptyDataSet.h"
+
 @interface HCViewController ()
 
 @end
